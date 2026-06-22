@@ -42,7 +42,7 @@ desc_files |>
       data.frame(package = basename(dirname(f)), remotes = dcf[1])
     }
   }) |>
-  bind_rows()
+  bind_rows() %>% mutate(has_ephysdata=stringr::str_detect(remotes, "ephysdata"))
 
 
 
