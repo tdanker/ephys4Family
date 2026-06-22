@@ -5,3 +5,4 @@ git clone https://github.com/NMIephys/ephys4HiClamp github_ephys4HiClamp
 git clone https://github.com/NMIephys/ephys4HAMAMATSU github_ephys4HAMAMATZU
 git clone https://github.com/NMIephys/NMItemplates github_NMItemplates
 git clone https://github.com/tdanker/ggscalebars github_ggscalebars
+git clone https://github.com/NMIephys/ephysdata github_ephysdata
