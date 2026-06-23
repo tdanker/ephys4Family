@@ -3,8 +3,4 @@
 .RData
 .Ruserdata
 *.gz
-QCAPP
-ROBOO*
-ephysTemplates
-ephys.sv
 tmp
